@@ -256,7 +256,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Utkarsh Barethiya** — Security Consultant & Penetration Tester, MSc Cybersecurity (First Class Honours)
+**Utkarsh Barethiya** — Security Consultant & Penetration Tester
 
 Built as an open-source initiative to bridge offensive security expertise with modern secure software engineering, and to advance hands-on AI security education.
 
