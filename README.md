@@ -260,7 +260,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Built as an open-source initiative to bridge offensive security expertise with modern secure software engineering, and to advance hands-on AI security education.
 
-[LinkedIn](#) · [Portfolio](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/utkarsh-barethiya) · [Portfolio](https://crackthehack.in) · [GitHub](#)
 
 ---
 
